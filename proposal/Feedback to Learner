@@ -1,0 +1,5 @@
+Feedback to Learner
+2/19/17 8:20 PM
+Elias, Ben and Jike,
+
+Great project idea. You should try and  design the website using as many visuals as possible - even for user requests.  For the progress report please answer the following questions: What data files / url will you use to bootstrap the project (teams, players, statistics, etc.)? Will you have years of statistics or just data for the current season. Will users be able to "share" their information with other users? Please use standard UML representation for your ERD. Your current diagram  is not using UML notation nor does not include multiplicity for the relationships - something you need to include. Other than that - your ERD looks good. It represents a schema substantially complex for a database project. 
