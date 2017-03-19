@@ -1,0 +1,25 @@
+{
+_links: {
+self: {
+href: "http://api.football-data.org/v1/competitions/426"
+},
+teams: {
+href: "http://api.football-data.org/v1/competitions/426/teams"
+},
+fixtures: {
+href: "http://api.football-data.org/v1/competitions/426/fixtures"
+},
+leagueTable: {
+href: "http://api.football-data.org/v1/competitions/426/leagueTable"
+}
+},
+id: 426,
+caption: "Premier League 2016/17",
+league: "PL",
+year: "2016",
+currentMatchday: 29,
+numberOfMatchdays: 38,
+numberOfTeams: 20,
+numberOfGames: 380,
+lastUpdated: "2017-03-19T18:30:15Z"
+}
