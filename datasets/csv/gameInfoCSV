@@ -1,0 +1,285 @@
+GAME_DATE,HOME_TEAM_NAME,AWAY_TEAM_NAME,GOALS_HOME_TEAM,GOALS_AWAY_TEAM
+
+"2016-08-13T11:30:00Z","Hull City FC","Leicester City FC",2,1
+"2016-08-13T14:00:00Z","Burnley FC","Swansea City FC",0,1
+"2016-08-13T14:00:00Z","Crystal Palace FC","West Bromwich Albion FC",0,1
+"2016-08-13T14:00:00Z","Everton FC","Tottenham Hotspur FC",1,1
+"2016-08-13T14:00:00Z","Middlesbrough FC","Stoke City FC",1,1
+"2016-08-13T14:00:00Z","Southampton FC","Watford FC",1,1
+"2016-08-13T16:30:00Z","Manchester City FC","Sunderland AFC",2,1
+"2016-08-14T12:30:00Z","AFC Bournemouth","Manchester United FC",1,3
+"2016-08-14T15:00:00Z","Arsenal FC","Liverpool FC",3,4
+"2016-08-15T19:00:00Z","Chelsea FC","West Ham United FC",2,1
+"2016-08-19T19:00:00Z","Manchester United FC","Southampton FC",2,0
+"2016-08-20T11:30:00Z","Stoke City FC","Manchester City FC",1,4
+"2016-08-20T14:00:00Z","Burnley FC","Liverpool FC",2,0
+"2016-08-20T14:00:00Z","West Bromwich Albion FC","Everton FC",1,2
+"2016-08-20T14:00:00Z","Swansea City FC","Hull City FC",0,2
+"2016-08-20T14:00:00Z","Tottenham Hotspur FC","Crystal Palace FC",1,0
+"2016-08-20T14:00:00Z","Watford FC","Chelsea FC",1,2
+"2016-08-20T16:30:00Z","Leicester City FC","Arsenal FC",0,0
+"2016-08-21T12:30:00Z","Sunderland AFC","Middlesbrough FC",1,2
+"2016-08-21T15:00:00Z","West Ham United FC","AFC Bournemouth",1,0
+"2016-08-27T11:30:00Z","Tottenham Hotspur FC","Liverpool FC",1,1
+"2016-08-27T14:00:00Z","Watford FC","Arsenal FC",1,3
+"2016-08-27T14:00:00Z","Chelsea FC","Burnley FC",3,0
+"2016-08-27T14:00:00Z","Southampton FC","Sunderland AFC",1,1
+"2016-08-27T14:00:00Z","Leicester City FC","Swansea City FC",2,1
+"2016-08-27T14:00:00Z","Everton FC","Stoke City FC",1,0
+"2016-08-27T14:00:00Z","Crystal Palace FC","AFC Bournemouth",1,1
+"2016-08-27T16:30:00Z","Hull City FC","Manchester United FC",0,1
+"2016-08-28T12:30:00Z","West Bromwich Albion FC","Middlesbrough FC",0,0
+"2016-08-28T15:00:00Z","Manchester City FC","West Ham United FC",3,1
+"2016-09-10T11:30:00Z","Manchester United FC","Manchester City FC",1,2
+"2016-09-10T14:00:00Z","Burnley FC","Hull City FC",1,1
+"2016-09-10T14:00:00Z","Middlesbrough FC","Crystal Palace FC",1,2
+"2016-09-10T14:00:00Z","Stoke City FC","Tottenham Hotspur FC",0,4
+"2016-09-10T14:00:00Z","AFC Bournemouth","West Bromwich Albion FC",1,0
+"2016-09-10T14:00:00Z","West Ham United FC","Watford FC",2,4
+"2016-09-10T14:00:00Z","Arsenal FC","Southampton FC",2,1
+"2016-09-10T16:30:00Z","Liverpool FC","Leicester City FC",4,1
+"2016-09-11T15:00:00Z","Swansea City FC","Chelsea FC",2,2
+"2016-09-12T19:00:00Z","Sunderland AFC","Everton FC",0,3
+"2016-09-16T19:00:00Z","Chelsea FC","Liverpool FC",1,2
+"2016-09-17T14:00:00Z","Hull City FC","Arsenal FC",1,4
+"2016-09-17T14:00:00Z","Leicester City FC","Burnley FC",3,0
+"2016-09-17T14:00:00Z","Manchester City FC","AFC Bournemouth",4,0
+"2016-09-17T14:00:00Z","West Bromwich Albion FC","West Ham United FC",4,2
+"2016-09-17T16:30:00Z","Everton FC","Middlesbrough FC",3,1
+"2016-09-18T11:00:00Z","Watford FC","Manchester United FC",3,1
+"2016-09-18T13:15:00Z","Southampton FC","Swansea City FC",1,0
+"2016-09-18T13:15:00Z","Crystal Palace FC","Stoke City FC",4,1
+"2016-09-18T15:30:00Z","Tottenham Hotspur FC","Sunderland AFC",1,0
+"2016-09-24T11:30:00Z","Manchester United FC","Leicester City FC",4,1
+"2016-09-24T14:00:00Z","AFC Bournemouth","Everton FC",1,0
+"2016-09-24T14:00:00Z","Liverpool FC","Hull City FC",5,1
+"2016-09-24T14:00:00Z","Middlesbrough FC","Tottenham Hotspur FC",1,2
+"2016-09-24T14:00:00Z","Stoke City FC","West Bromwich Albion FC",1,1
+"2016-09-24T14:00:00Z","Sunderland AFC","Crystal Palace FC",2,3
+"2016-09-24T14:00:00Z","Swansea City FC","Manchester City FC",1,3
+"2016-09-24T16:30:00Z","Arsenal FC","Chelsea FC",3,0
+"2016-09-25T15:00:00Z","West Ham United FC","Southampton FC",0,3
+"2016-09-26T19:00:00Z","Burnley FC","Watford FC",2,0
+"2016-09-30T19:00:00Z","Everton FC","Crystal Palace FC",1,1
+"2016-10-01T11:30:00Z","Swansea City FC","Liverpool FC",1,2
+"2016-10-01T14:00:00Z","Sunderland AFC","West Bromwich Albion FC",1,1
+"2016-10-01T14:00:00Z","Watford FC","AFC Bournemouth",2,2
+"2016-10-01T14:00:00Z","West Ham United FC","Middlesbrough FC",1,1
+"2016-10-01T14:00:00Z","Hull City FC","Chelsea FC",0,2
+"2016-10-02T11:00:00Z","Manchester United FC","Stoke City FC",1,1
+"2016-10-02T13:15:00Z","Leicester City FC","Southampton FC",0,0
+"2016-10-02T13:15:00Z","Tottenham Hotspur FC","Manchester City FC",2,0
+"2016-10-02T15:30:00Z","Burnley FC","Arsenal FC",0,1
+"2016-10-15T11:30:00Z","Chelsea FC","Leicester City FC",3,0
+"2016-10-15T14:00:00Z","West Bromwich Albion FC","Tottenham Hotspur FC",1,1
+"2016-10-15T14:00:00Z","Stoke City FC","Sunderland AFC",2,0
+"2016-10-15T14:00:00Z","AFC Bournemouth","Hull City FC",6,1
+"2016-10-15T14:00:00Z","Manchester City FC","Everton FC",1,1
+"2016-10-15T14:00:00Z","Arsenal FC","Swansea City FC",3,2
+"2016-10-15T16:30:00Z","Crystal Palace FC","West Ham United FC",0,1
+"2016-10-16T12:30:00Z","Middlesbrough FC","Watford FC",0,1
+"2016-10-16T15:00:00Z","Southampton FC","Burnley FC",3,1
+"2016-10-17T19:00:00Z","Liverpool FC","Manchester United FC",0,0
+"2016-10-22T11:30:00Z","AFC Bournemouth","Tottenham Hotspur FC",0,0
+"2016-10-22T14:00:00Z","Arsenal FC","Middlesbrough FC",0,0
+"2016-10-22T14:00:00Z","Burnley FC","Everton FC",2,1
+"2016-10-22T14:00:00Z","Hull City FC","Stoke City FC",0,2
+"2016-10-22T14:00:00Z","Leicester City FC","Crystal Palace FC",3,1
+"2016-10-22T14:00:00Z","Swansea City FC","Watford FC",0,0
+"2016-10-22T14:00:00Z","West Ham United FC","Sunderland AFC",1,0
+"2016-10-22T16:30:00Z","Liverpool FC","West Bromwich Albion FC",2,1
+"2016-10-23T12:30:00Z","Manchester City FC","Southampton FC",1,1
+"2016-10-23T15:00:00Z","Chelsea FC","Manchester United FC",4,0
+"2016-10-29T11:30:00Z","Sunderland AFC","Arsenal FC",1,4
+"2016-10-29T14:00:00Z","Manchester United FC","Burnley FC",0,0
+"2016-10-29T14:00:00Z","Middlesbrough FC","AFC Bournemouth",2,0
+"2016-10-29T14:00:00Z","Tottenham Hotspur FC","Leicester City FC",1,1
+"2016-10-29T14:00:00Z","Watford FC","Hull City FC",1,0
+"2016-10-29T14:00:00Z","West Bromwich Albion FC","Manchester City FC",0,4
+"2016-10-29T16:30:00Z","Crystal Palace FC","Liverpool FC",2,4
+"2016-10-30T13:30:00Z","Everton FC","West Ham United FC",2,0
+"2016-10-30T16:00:00Z","Southampton FC","Chelsea FC",0,2
+"2016-10-31T20:00:00Z","Stoke City FC","Swansea City FC",3,1
+"2016-11-05T15:00:00Z","Burnley FC","Crystal Palace FC",3,2
+"2016-11-05T15:00:00Z","Manchester City FC","Middlesbrough FC",1,1
+"2016-11-05T15:00:00Z","AFC Bournemouth","Sunderland AFC",1,2
+"2016-11-05T15:00:00Z","West Ham United FC","Stoke City FC",1,1
+"2016-11-05T17:30:00Z","Chelsea FC","Everton FC",5,0
+"2016-11-06T12:00:00Z","Arsenal FC","Tottenham Hotspur FC",1,1
+"2016-11-06T14:15:00Z","Hull City FC","Southampton FC",2,1
+"2016-11-06T14:15:00Z","Liverpool FC","Watford FC",6,1
+"2016-11-06T15:00:00Z","Swansea City FC","Manchester United FC",1,3
+"2016-11-06T16:30:00Z","Leicester City FC","West Bromwich Albion FC",1,2
+"2016-11-19T12:30:00Z","Manchester United FC","Arsenal FC",1,1
+"2016-11-19T15:00:00Z","Watford FC","Leicester City FC",2,1
+"2016-11-19T15:00:00Z","Crystal Palace FC","Manchester City FC",1,2
+"2016-11-19T15:00:00Z","Sunderland AFC","Hull City FC",3,0
+"2016-11-19T15:00:00Z","Stoke City FC","AFC Bournemouth",0,1
+"2016-11-19T15:00:00Z","Southampton FC","Liverpool FC",0,0
+"2016-11-19T15:00:00Z","Everton FC","Swansea City FC",1,1
+"2016-11-19T17:30:00Z","Tottenham Hotspur FC","West Ham United FC",3,2
+"2016-11-20T16:00:00Z","Middlesbrough FC","Chelsea FC",0,1
+"2016-11-21T20:00:00Z","West Bromwich Albion FC","Burnley FC",4,0
+"2016-11-26T12:30:00Z","Burnley FC","Manchester City FC",1,2
+"2016-11-26T15:00:00Z","Hull City FC","West Bromwich Albion FC",1,1
+"2016-11-26T15:00:00Z","Leicester City FC","Middlesbrough FC",2,2
+"2016-11-26T15:00:00Z","Liverpool FC","Sunderland AFC",2,0
+"2016-11-26T15:00:00Z","Swansea City FC","Crystal Palace FC",5,4
+"2016-11-26T17:30:00Z","Chelsea FC","Tottenham Hotspur FC",2,1
+"2016-11-27T12:00:00Z","Watford FC","Stoke City FC",0,1
+"2016-11-27T14:15:00Z","Arsenal FC","AFC Bournemouth",3,1
+"2016-11-27T16:30:00Z","Manchester United FC","West Ham United FC",1,1
+"2016-11-27T16:30:00Z","Southampton FC","Everton FC",1,0
+"2016-12-03T12:30:00Z","Manchester City FC","Chelsea FC",1,3
+"2016-12-03T15:00:00Z","Crystal Palace FC","Southampton FC",3,0
+"2016-12-03T15:00:00Z","Stoke City FC","Burnley FC",2,0
+"2016-12-03T15:00:00Z","Sunderland AFC","Leicester City FC",2,1
+"2016-12-03T15:00:00Z","Tottenham Hotspur FC","Swansea City FC",5,0
+"2016-12-03T15:00:00Z","West Bromwich Albion FC","Watford FC",3,1
+"2016-12-03T17:30:00Z","West Ham United FC","Arsenal FC",1,5
+"2016-12-04T13:30:00Z","AFC Bournemouth","Liverpool FC",4,3
+"2016-12-04T16:00:00Z","Everton FC","Manchester United FC",1,1
+"2016-12-05T20:00:00Z","Middlesbrough FC","Hull City FC",1,0
+"2016-12-10T12:30:00Z","Watford FC","Everton FC",3,2
+"2016-12-10T15:00:00Z","Arsenal FC","Stoke City FC",3,1
+"2016-12-10T15:00:00Z","Burnley FC","AFC Bournemouth",3,2
+"2016-12-10T15:00:00Z","Hull City FC","Crystal Palace FC",3,3
+"2016-12-10T15:00:00Z","Swansea City FC","Sunderland AFC",3,0
+"2016-12-10T17:30:00Z","Leicester City FC","Manchester City FC",4,2
+"2016-12-11T12:00:00Z","Chelsea FC","West Bromwich Albion FC",1,0
+"2016-12-11T14:15:00Z","Southampton FC","Middlesbrough FC",1,0
+"2016-12-11T14:15:00Z","Manchester United FC","Tottenham Hotspur FC",1,0
+"2016-12-11T16:30:00Z","Liverpool FC","West Ham United FC",2,2
+"2016-12-13T19:45:00Z","Everton FC","Arsenal FC",2,1
+"2016-12-13T19:45:00Z","AFC Bournemouth","Leicester City FC",1,0
+"2016-12-14T19:45:00Z","Middlesbrough FC","Liverpool FC",0,3
+"2016-12-14T19:45:00Z","Sunderland AFC","Chelsea FC",0,1
+"2016-12-14T19:45:00Z","West Ham United FC","Burnley FC",1,0
+"2016-12-14T20:00:00Z","West Bromwich Albion FC","Swansea City FC",3,1
+"2016-12-14T20:00:00Z","Crystal Palace FC","Manchester United FC",1,2
+"2016-12-14T20:00:00Z","Tottenham Hotspur FC","Hull City FC",3,0
+"2016-12-14T20:00:00Z","Stoke City FC","Southampton FC",0,0
+"2016-12-14T20:00:00Z","Manchester City FC","Watford FC",2,0
+"2016-12-17T12:30:00Z","Crystal Palace FC","Chelsea FC",0,1
+"2016-12-17T15:00:00Z","Sunderland AFC","Watford FC",1,0
+"2016-12-17T15:00:00Z","Stoke City FC","Leicester City FC",2,2
+"2016-12-17T15:00:00Z","Middlesbrough FC","Swansea City FC",3,0
+"2016-12-17T15:00:00Z","West Ham United FC","Hull City FC",1,0
+"2016-12-17T17:30:00Z","West Bromwich Albion FC","Manchester United FC",0,2
+"2016-12-18T13:30:00Z","AFC Bournemouth","Southampton FC",1,3
+"2016-12-18T16:00:00Z","Tottenham Hotspur FC","Burnley FC",2,1
+"2016-12-18T16:00:00Z","Manchester City FC","Arsenal FC",2,1
+"2016-12-19T20:00:00Z","Everton FC","Liverpool FC",0,1
+"2016-12-26T12:30:00Z","Watford FC","Crystal Palace FC",1,1
+"2016-12-26T15:00:00Z","Arsenal FC","West Bromwich Albion FC",1,0
+"2016-12-26T15:00:00Z","Burnley FC","Middlesbrough FC",1,0
+"2016-12-26T15:00:00Z","Chelsea FC","AFC Bournemouth",3,0
+"2016-12-26T15:00:00Z","Leicester City FC","Everton FC",0,2
+"2016-12-26T15:00:00Z","Manchester United FC","Sunderland AFC",3,1
+"2016-12-26T15:00:00Z","Swansea City FC","West Ham United FC",1,4
+"2016-12-26T17:15:00Z","Hull City FC","Manchester City FC",0,3
+"2016-12-27T17:15:00Z","Liverpool FC","Stoke City FC",4,1
+"2016-12-28T19:45:00Z","Southampton FC","Tottenham Hotspur FC",1,4
+"2016-12-30T20:00:00Z","Hull City FC","Everton FC",2,2
+"2016-12-31T15:00:00Z","Burnley FC","Sunderland AFC",4,1
+"2016-12-31T15:00:00Z","Chelsea FC","Stoke City FC",4,2
+"2016-12-31T15:00:00Z","Leicester City FC","West Ham United FC",1,0
+"2016-12-31T15:00:00Z","Manchester United FC","Middlesbrough FC",2,1
+"2016-12-31T15:00:00Z","Southampton FC","West Bromwich Albion FC",1,2
+"2016-12-31T15:00:00Z","Swansea City FC","AFC Bournemouth",0,3
+"2016-12-31T17:30:00Z","Liverpool FC","Manchester City FC",1,0
+"2017-01-01T13:30:00Z","Watford FC","Tottenham Hotspur FC",1,4
+"2017-01-01T16:00:00Z","Arsenal FC","Crystal Palace FC",2,0
+"2017-01-02T12:30:00Z","Middlesbrough FC","Leicester City FC",0,0
+"2017-01-02T15:00:00Z","Everton FC","Southampton FC",3,0
+"2017-01-02T15:00:00Z","Manchester City FC","Burnley FC",2,1
+"2017-01-02T15:00:00Z","Sunderland AFC","Liverpool FC",2,2
+"2017-01-02T15:00:00Z","West Bromwich Albion FC","Hull City FC",3,1
+"2017-01-02T17:15:00Z","West Ham United FC","Manchester United FC",0,2
+"2017-01-03T19:45:00Z","AFC Bournemouth","Arsenal FC",3,3
+"2017-01-03T20:00:00Z","Stoke City FC","Watford FC",2,0
+"2017-01-03T20:00:00Z","Crystal Palace FC","Swansea City FC",1,2
+"2017-01-04T20:00:00Z","Tottenham Hotspur FC","Chelsea FC",2,0
+"2017-01-14T12:30:00Z","Tottenham Hotspur FC","West Bromwich Albion FC",4,0
+"2017-01-14T15:00:00Z","Hull City FC","AFC Bournemouth",3,1
+"2017-01-14T15:00:00Z","Sunderland AFC","Stoke City FC",1,3
+"2017-01-14T15:00:00Z","Swansea City FC","Arsenal FC",0,4
+"2017-01-14T15:00:00Z","Watford FC","Middlesbrough FC",0,0
+"2017-01-14T15:00:00Z","West Ham United FC","Crystal Palace FC",3,0
+"2017-01-14T15:00:00Z","Burnley FC","Southampton FC",1,0
+"2017-01-14T17:30:00Z","Leicester City FC","Chelsea FC",0,3
+"2017-01-15T13:30:00Z","Everton FC","Manchester City FC",4,0
+"2017-01-15T16:00:00Z","Manchester United FC","Liverpool FC",1,1
+"2017-01-21T12:30:00Z","Liverpool FC","Swansea City FC",2,3
+"2017-01-21T15:00:00Z","Stoke City FC","Manchester United FC",1,1
+"2017-01-21T15:00:00Z","Middlesbrough FC","West Ham United FC",1,3
+"2017-01-21T15:00:00Z","West Bromwich Albion FC","Sunderland AFC",2,0
+"2017-01-21T15:00:00Z","Crystal Palace FC","Everton FC",0,1
+"2017-01-21T15:00:00Z","AFC Bournemouth","Watford FC",2,2
+"2017-01-21T17:30:00Z","Manchester City FC","Tottenham Hotspur FC",2,2
+"2017-01-22T12:00:00Z","Southampton FC","Leicester City FC",3,0
+"2017-01-22T14:15:00Z","Arsenal FC","Burnley FC",2,1
+"2017-01-22T16:30:00Z","Chelsea FC","Hull City FC",2,0
+"2017-01-31T19:45:00Z","AFC Bournemouth","Crystal Palace FC",0,2
+"2017-01-31T19:45:00Z","Burnley FC","Leicester City FC",1,0
+"2017-01-31T19:45:00Z","Middlesbrough FC","West Bromwich Albion FC",1,1
+"2017-01-31T19:45:00Z","Sunderland AFC","Tottenham Hotspur FC",0,0
+"2017-01-31T19:45:00Z","Swansea City FC","Southampton FC",2,1
+"2017-01-31T19:45:00Z","Arsenal FC","Watford FC",1,2
+"2017-01-31T20:00:00Z","Liverpool FC","Chelsea FC",1,1
+"2017-02-01T19:45:00Z","West Ham United FC","Manchester City FC",0,4
+"2017-02-01T20:00:00Z","Manchester United FC","Hull City FC",0,0
+"2017-02-01T20:00:00Z","Stoke City FC","Everton FC",1,1
+"2017-02-04T12:30:00Z","Chelsea FC","Arsenal FC",3,1
+"2017-02-04T15:00:00Z","Watford FC","Burnley FC",2,1
+"2017-02-04T15:00:00Z","West Bromwich Albion FC","Stoke City FC",1,0
+"2017-02-04T15:00:00Z","Crystal Palace FC","Sunderland AFC",0,4
+"2017-02-04T15:00:00Z","Hull City FC","Liverpool FC",2,0
+"2017-02-04T15:00:00Z","Everton FC","AFC Bournemouth",6,3
+"2017-02-04T15:00:00Z","Southampton FC","West Ham United FC",1,3
+"2017-02-04T17:30:00Z","Tottenham Hotspur FC","Middlesbrough FC",1,0
+"2017-02-05T13:30:00Z","Manchester City FC","Swansea City FC",2,1
+"2017-02-05T16:00:00Z","Leicester City FC","Manchester United FC",0,3
+"2017-02-11T12:30:00Z","Arsenal FC","Hull City FC",2,0
+"2017-02-11T15:00:00Z","Manchester United FC","Watford FC",2,0
+"2017-02-11T15:00:00Z","Middlesbrough FC","Everton FC",0,0
+"2017-02-11T15:00:00Z","Stoke City FC","Crystal Palace FC",1,0
+"2017-02-11T15:00:00Z","Sunderland AFC","Southampton FC",0,4
+"2017-02-11T15:00:00Z","West Ham United FC","West Bromwich Albion FC",2,2
+"2017-02-11T17:30:00Z","Liverpool FC","Tottenham Hotspur FC",2,0
+"2017-02-12T13:30:00Z","Burnley FC","Chelsea FC",1,1
+"2017-02-12T16:00:00Z","Swansea City FC","Leicester City FC",2,0
+"2017-02-13T20:00:00Z","AFC Bournemouth","Manchester City FC",0,2
+"2017-02-25T15:00:00Z","Crystal Palace FC","Middlesbrough FC",1,0
+"2017-02-25T15:00:00Z","Everton FC","Sunderland AFC",2,0
+"2017-02-25T15:00:00Z","Hull City FC","Burnley FC",1,1
+"2017-02-25T15:00:00Z","Chelsea FC","Swansea City FC",3,1
+"2017-02-25T15:00:00Z","West Bromwich Albion FC","AFC Bournemouth",2,1
+"2017-02-25T17:30:00Z","Watford FC","West Ham United FC",1,1
+"2017-02-26T13:30:00Z","Tottenham Hotspur FC","Stoke City FC",4,0
+"2017-02-27T20:00:00Z","Leicester City FC","Liverpool FC",3,1
+"2017-03-04T12:30:00Z","Manchester United FC","AFC Bournemouth",1,1
+"2017-03-04T15:00:00Z","West Bromwich Albion FC","Crystal Palace FC",0,2
+"2017-03-04T15:00:00Z","Watford FC","Southampton FC",3,4
+"2017-03-04T15:00:00Z","Swansea City FC","Burnley FC",3,2
+"2017-03-04T15:00:00Z","Stoke City FC","Middlesbrough FC",2,0
+"2017-03-04T15:00:00Z","Leicester City FC","Hull City FC",3,1
+"2017-03-04T17:30:00Z","Liverpool FC","Arsenal FC",3,1
+"2017-03-05T13:30:00Z","Tottenham Hotspur FC","Everton FC",3,2
+"2017-03-05T16:00:00Z","Sunderland AFC","Manchester City FC",0,2
+"2017-03-06T20:00:00Z","West Ham United FC","Chelsea FC",1,2
+"2017-03-08T19:45:00Z","Manchester City FC","Stoke City FC",0,0
+"2017-03-11T15:00:00Z","AFC Bournemouth","West Ham United FC",3,2
+"2017-03-11T15:00:00Z","Everton FC","West Bromwich Albion FC",3,0
+"2017-03-11T15:00:00Z","Hull City FC","Swansea City FC",2,1
+"2017-03-12T16:00:00Z","Liverpool FC","Burnley FC",2,1
+"2017-03-18T12:30:00Z","West Bromwich Albion FC","Arsenal FC",3,1
+"2017-03-18T15:00:00Z","Crystal Palace FC","Watford FC",1,0
+"2017-03-18T15:00:00Z","Everton FC","Hull City FC",4,0
+"2017-03-18T15:00:00Z","Stoke City FC","Chelsea FC",1,2
+"2017-03-18T15:00:00Z","Sunderland AFC","Burnley FC",0,0
+"2017-03-18T15:00:00Z","West Ham United FC","Leicester City FC",2,3
+"2017-03-18T17:30:00Z","AFC Bournemouth","Swansea City FC",2,0
+"2017-03-19T12:00:00Z","Middlesbrough FC","Manchester United FC",1,3
+"2017-03-19T14:15:00Z","Tottenham Hotspur FC","Southampton FC",2,1
+"2017-03-19T16:30:00Z","Manchester City FC","Liverpool FC",1,1
